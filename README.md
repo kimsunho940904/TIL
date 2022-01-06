@@ -15,3 +15,6 @@
   - [Git 참고 자료](https://velog.io/@kimsunho940904/git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)
 - [PuTTY 응용 프로그램](https://github.com/kimsunho940904/TIL/wiki/%5BPuTTY%5D%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
   - [다운로드 사이트](https://www.putty.org/)
+- [Nginx 웹 서버 소프트웨어]
+- [Redmine 프로젝트 관리]
+- [GitLab CI/CD 데브옵스]
