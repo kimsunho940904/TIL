@@ -2,6 +2,7 @@
 ---
 - [오라클 서브쿼리](https://velog.io/@kimsunho940904/Oracle-%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC)
 - 오라클 부족한 내용 정리
+  - [단일행 함수]()
   - [TRUNC 함수](https://github.com/kimsunho940904/TIL/wiki/%5B%EC%98%A4%EB%9D%BC%ED%81%B4%5D-TRUNC-%ED%95%A8%EC%88%98)
   - [UNION](https://github.com/kimsunho940904/TIL/wiki/%5B%EC%98%A4%EB%9D%BC%ED%81%B4%5D-UNION)
   - [SUBSTR 함수](https://github.com/kimsunho940904/TIL/wiki/%5B%EC%98%A4%EB%9D%BC%ED%81%B4%5D-SUBSTR-%ED%95%A8%EC%88%98)
