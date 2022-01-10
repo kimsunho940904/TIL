@@ -19,4 +19,4 @@
   - [다운로드 사이트](https://www.putty.org/)
 - [Nginx 웹 서버 소프트웨어]()
 - [Redmine 프로젝트 관리]()
-- [GitLab CI/CD 데브옵스]()
+- [Jenkins CI/CD 데브옵스]()
