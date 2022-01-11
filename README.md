@@ -21,4 +21,4 @@
 - [Redmine 프로젝트 관리]()
 - [Jenkins CI/CD 데브옵스]()
 - [네트워크 지식]()
-  - [SSL]()
+  - [SSL](https://github.com/kimsunho940904/TIL/wiki/%5B%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%A7%80%EC%8B%9D%5D-SSL)
