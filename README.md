@@ -22,5 +22,5 @@
 - [Nginx 웹 서버 소프트웨어]()
 - [Redmine 프로젝트 관리]()
 - [Jenkins CI/CD]()
-- [네트워크 지식]()
-  - [SSL](https://github.com/kimsunho940904/TIL/wiki/%5B%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%A7%80%EC%8B%9D%5D-SSL)
+- [ 지식]()
+  - [SSO, SSL, SSH](https://github.com/kimsunho940904/TIL/wiki/%5B%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%A7%80%EC%8B%9D%5D-SSL)
