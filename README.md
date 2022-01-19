@@ -25,4 +25,4 @@
 - [네트워크 지식]()
   - [SSO, SSL, SSH](https://github.com/kimsunho940904/TIL/wiki/%5B%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%A7%80%EC%8B%9D%5D-SSL)
 - [HTTP]()
-  - [Session & Cookie](https://github.com/kimsunho940904/TIL/wiki/%5B%EC%84%B8%EC%85%98%EA%B3%BC-%EC%BF%A0%ED%82%A4%5D-Session-&-Cookie) 
+  - [Session & Cookie](https://github.com/kimsunho940904/TIL/wiki/%5BHTTP%5D-Session-&-Cookie) 
