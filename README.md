@@ -29,4 +29,4 @@
 - [JAVA]()
   - [StringTokenizer](https://github.com/kimsunho940904/TIL/wiki/%5BJava%5D-StringTokenizer)
 - [Log4j2]()
-  - [Log4j2 대환장파티]()
+  - [Log4j2 대환장파티](https://github.com/kimsunho940904/TIL/wiki/%5BLog4j2%5D-%EB%8C%80%ED%99%98%EC%9E%A5%ED%8C%8C%ED%8B%B0)
