@@ -34,3 +34,4 @@
 - [스프링]()
   - [스프링 배치](https://github.com/kimsunho940904/TIL/wiki/%5B%EC%8A%A4%ED%94%84%EB%A7%81%5D-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98)
   - [Jasypt 암호화]()
+  - [프로파일 나누기]()
