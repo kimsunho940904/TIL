@@ -33,5 +33,5 @@
   - [Log4j2 대환장파티](https://github.com/kimsunho940904/TIL/wiki/%5BLog4j2%5D-%EB%8C%80%ED%99%98%EC%9E%A5%ED%8C%8C%ED%8B%B0)
 - [스프링]()
   - [스프링 배치](https://github.com/kimsunho940904/TIL/wiki/%5B%EC%8A%A4%ED%94%84%EB%A7%81%5D-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98)
-  - [Jasypt 암호화]()
+  - [Jasypt 암호화](https://github.com/kimsunho940904/TIL/wiki/%5B%EC%8A%A4%ED%94%84%EB%A7%81%5D-Jasypt)
   - [프로파일 나누기](https://github.com/kimsunho940904/TIL/wiki/%5B%EC%8A%A4%ED%94%84%EB%A7%81%5D-%ED%94%84%EB%A1%9C%ED%8C%8C%EC%9D%BC-%EB%82%98%EB%88%84%EA%B8%B0)
