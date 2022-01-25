@@ -24,7 +24,7 @@
 - [Jenkins CI/CD]()
 - [네트워크 지식]()
   - [SSO, SSL, SSH](https://github.com/kimsunho940904/TIL/wiki/%5B%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%A7%80%EC%8B%9D%5D-SSL)
-  - [프록시 서버]()
+  - [프록시 서버](https://github.com/kimsunho940904/TIL/wiki/%5B%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A7%80%EC%8B%9D%5D-%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%84%9C%EB%B2%84)
 - [HTTP]()
   - [Session & Cookie](https://github.com/kimsunho940904/TIL/wiki/%5BHTTP%5D-Session-&-Cookie)
 - [JAVA]()
