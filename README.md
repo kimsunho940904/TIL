@@ -21,7 +21,7 @@
   - [다운로드 사이트](https://www.putty.org/)
 - [Nginx 웹 서버 소프트웨어]()
 - [Redmine 프로젝트 관리]()
-- [Jenkins CI/CD]()
+- [Jenkins CI/CD](https://github.com/kimsunho940904/TIL/wiki/%5BJenkins%5D-CI---CD)
 - [네트워크 지식]()
   - [SSO, SSL, SSH](https://github.com/kimsunho940904/TIL/wiki/%5B%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%A7%80%EC%8B%9D%5D-SSL)
   - [프록시 서버](https://github.com/kimsunho940904/TIL/wiki/%5B%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A7%80%EC%8B%9D%5D-%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%84%9C%EB%B2%84)
