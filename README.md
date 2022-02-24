@@ -31,7 +31,7 @@
 - [WEB SERVER 와 WAS의 차이](https://github.com/kimsunho940904/TIL/wiki/WEBSERVER-%EC%99%80-WAS%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 - [SSO(Single-Sign-On)](https://github.com/kimsunho940904/TIL/wiki/%5BSSO%5D-Single-Sign-On)
 - [SQLD]()
-  - [1과목 1장 데이터 모델링의 이해]()
+  - [1과목 1장 데이터 모델링의 이해](https://github.com/kimsunho940904/TIL/wiki/%5BSQLD%5D-1%EA%B3%BC%EB%AA%A9-1%EC%9E%A5-:-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EB%A7%81%EC%9D%98-%EC%9D%B4%ED%95%B4)
   - [1과목 2장 데이터 모델과 성능]()
   - [2과목 1장 SQL 기본]()
   - [2과목 2장 SQL 활용]()
