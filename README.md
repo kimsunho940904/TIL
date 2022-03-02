@@ -36,3 +36,4 @@
   - [2과목 1장 SQL 기본]()
   - [2과목 2장 SQL 활용]()
   - [2과목 3장 SQL 최적화 기본 원리]()
+- [@Resource, @Autowired, @Inject 차이]()
