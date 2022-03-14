@@ -38,3 +38,4 @@
   - [2과목 3장 SQL 최적화 기본 원리]()
 - [@Resource, @Autowired, @Inject 차이](https://github.com/kimsunho940904/TIL/wiki/%5BSpring%5D-@Resource,-@Autowired,-@Inject-%EC%B0%A8%EC%9D%B4)
 - [SerializeArray()](https://github.com/kimsunho940904/TIL/wiki/%5BJquery%5D-SerializeArray())
+- [리눅스 명령어 정리]()
